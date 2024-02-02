@@ -1,0 +1,27 @@
+#Flight Number, Flight Code, Origin, Destination, Current Speed, Rem. Distance, Aircraft, Airline, Airline Code, Departure Time, Arrival Time, APPX Arrival Time, Delay Time, Has Departed, is Departing
+#7:36:31
+0001, FR0001, Birmingham Airport, Default Airport, 797.05, 3186.0, Boeing 737 Max 8, Ryanair, FR, 20:30:00, 0:30:00, 0:17:50, 0:00:00, False, True
+0002, FR0002, Birmingham Airport, East Midlands Airport, 966.0, 1986.0, Boeing 737-800, Ryanair, FR, 0:15:00, 2:30:00, 2:18:21, 0:00:00, False, True
+0002, LS0002, London Heathrow Airport, Birmingham Airport, 876.0, 1915.0, Airbus A321-200, Jet2, LS, 4:15:00, 6:30:00, 6:26:09, 0:00:00, False, True
+0009, LS0009, Manchester Airport, Default Airport, 876.0, 1244.0, Airbus A321neo, Jet2, LS, 5:45:00, 7:15:00, 7:10:12, 0:00:00, False, True
+0007, LS0007, Manchester Airport, London Gatwick Airport, 832.2, 3340.0, Airbus A321-200, Jet2, LS, 4:00:00, 8:00:00, 7:48:46, 0:00:00, False, False
+0003, BA0003, London Heathrow Airport, Birmingham Airport, 870.0, 1490.0, Embraer 190-BA, BritishAirways, BA, 6:45:00, 8:30:00, 8:27:45, 0:00:00, False, False
+0001, BY0001, London Gatwick Airport, London Heathrow Airport, 946.0, 2750.0, Boeing 737-800, TUI, BY, 5:30:00, 8:30:00, 8:24:25, 0:00:00, False, False
+0006, LS0006, London Gatwick Airport, Manchester Airport, 876.0, 1267.0, Airbus A321neo, Jet2, LS, 7:45:00, 9:15:00, 9:11:46, 0:00:00, False, True
+0008, LS0008, Birmingham Airport, London Heathrow Airport, 966.0, 2916.0, Boeing 737-800, Jet2, LS, 6:30:00, 9:45:00, 9:31:07, 0:00:00, False, False
+0001, BA0001, London Heathrow Airport, London Gatwick Airport, 826.5, 1782.0, Embraer 190-BA, BritishAirways, BA, 10:00:00, 12:15:00, 12:02:53, 0:00:00, False, True
+0005, LS0005, Manchester Airport, London Heathrow Airport, 876.0, 1938.0, Airbus A321-200, Jet2, LS, 10:30:00, 12:45:00, 12:42:44, 0:00:00, False, True
+0001, LS0001, Default Airport, East Midlands Airport, 966.0, 1369.0, Boeing 737-800, Jet2, LS, 11:30:00, 13:00:00, 12:55:01, 0:00:00, False, True
+0000, FR0000, London Heathrow Airport, Default Airport, 839.0, 1703.0, Boeing 737 Max 8, Ryanair, FR, 11:15:00, 13:30:00, 13:16:47, 0:00:00, False, True
+0004, FR0004, Manchester Airport, Birmingham Airport, 797.05, 1436.0, Boeing 737 Max 8, Ryanair, FR, 12:00:00, 13:45:00, 13:42:41, 0:00:00, False, True
+0004, BA0004, Birmingham Airport, London Heathrow Airport, 1086.0, 2961.0, Airbus A380-800, BritishAirways, BA, 11:15:00, 14:00:00, 13:58:35, 0:00:00, False, True
+0002, BA0002, London Gatwick Airport, Manchester Airport, 1086.0, 3239.0, Airbus A380-800, BritishAirways, BA, 12:30:00, 15:30:00, 15:28:57, 0:00:00, False, True
+0000, BA0000, London Heathrow Airport, Birmingham Airport, 1050.0, 1642.0, Boeing787-9, BritishAirways, BA, 14:00:00, 15:45:00, 15:33:49, 0:00:00, False, True
+0005, BA0005, Birmingham Airport, Default Airport, 905.0, 2987.0, Airbus A350-1000, BritishAirways, BA, 12:45:00, 16:15:00, 16:03:01, 0:00:00, False, True
+0003, FR0003, Birmingham Airport, East Midlands Airport, 839.0, 2552.0, Boeing 737 Max 8, Ryanair, FR, 13:45:00, 17:00:00, 16:47:30, 0:00:00, False, True
+0006, FR0006, Manchester Airport, Birmingham Airport, 839.0, 2081.0, Boeing 737 Max 8, Ryanair, FR, 17:00:00, 19:30:00, 19:28:49, 0:00:00, False, True
+0000, LS0000, Manchester Airport, London Heathrow Airport, 832.2, 2803.0, Airbus A321neo, Jet2, LS, 16:30:00, 19:45:00, 19:41:59, 0:00:00, False, True
+0003, LS0003, London Heathrow Airport, Birmingham Airport, 876.0, 2661.0, Airbus A321-200, Jet2, LS, 17:15:00, 20:30:00, 20:17:15, 0:00:00, False, True
+0004, LS0004, Manchester Airport, London Heathrow Airport, 876.0, 2408.0, Airbus A321neo, Jet2, LS, 17:45:00, 20:30:00, 20:29:55, 0:00:00, False, True
+0000, BY0000, London Heathrow Airport, East Midlands Airport, 839.0, 2312.0, Boeing 737 MAX 8, TUI, BY, 19:15:00, 22:15:00, 22:00:20, 0:00:00, False, True
+0005, FR0005, London Gatwick Airport, Manchester Airport, 917.7, 3017.0, Boeing 737-800, Ryanair, FR, 20:00:00, 23:15:00, 23:07:23, 0:00:00, False, True

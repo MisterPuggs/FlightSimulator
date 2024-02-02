@@ -1,0 +1,5 @@
+#East Midlands Airport, Birmingham Airport, London Heathrow Airport, London Gatwick Airport, Manchester Airport, Default Airport
+Jet2, LS, Airbus A321neo, Airbus A321-200, Boeing 737-800, 876, 876, 966
+Ryanair, FR, Boeing 737 Max 8, Boeing 737-800, 839, 966
+BritishAirways, BA, Boeing787-9, Airbus A350-1000, Airbus A380-800, Embraer 190-BA, 1050, 905, 1086, 870
+TUI, BY, Boeing 737 MAX 8, Boeing 737-800, Boeing 767-300, 839, 946, 988
